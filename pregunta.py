@@ -17,7 +17,7 @@ def fecha(x):
         
 def clean_data():
 
-    df = pd.read_csv("solicitudes_credito (2).csv", sep=";")
+    df = pd.read_csv("solicitudes_credito.csv", sep=";")
 
     #
     # Inserte su código aquí
