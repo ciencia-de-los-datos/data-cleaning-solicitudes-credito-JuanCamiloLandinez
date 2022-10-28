@@ -58,4 +58,3 @@ def clean_data():
     df.drop_duplicates(inplace=True)
     df.dropna(axis=0,inplace=True)
     return df
-Footer
